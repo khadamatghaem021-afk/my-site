@@ -1,35 +1,11 @@
 {
     "categories": [
         {
-            "name": "Bookmarks bar",
+            "name": "Favorites bar",
             "websites": [
                 {
-                    "title": "سامانه نمایندگان - رایتل",
-                    "url": "https://dealer.rightel.ir/auth/login"
-                },
-                {
-                    "title": "سامانه فروش و خدمات ایرانسل",
-                    "url": "https://sale.irancell.ir/"
-                },
-                {
-                    "title": "shatel",
-                    "url": "https://pos.shatelmobile.ir/shatelpdv/;jsessionid=B02CD568BD77A03CF6E5D5CD26E4AF5A.bssclients_app101?0"
-                },
-                {
-                    "title": "سرویس پست الکترونیکی پیشخوان نمایندگان رایتل",
-                    "url": "https://mail.rightel.net/owa/auth/logon.aspx?url=https%3a%2f%2fmail.rightel.net%2fowa%2f&reason=0"
-                },
-                {
-                    "title": "مدیریت حساب شاتل موبایل",
-                    "url": "https://my.shatelmobile.ir/#!/vas-offers"
-                },
-                {
-                    "title": "ریست رمز پنل",
-                    "url": "https://rp.shatelmobile.ir/"
-                },
-                {
-                    "title": "ورود |‌ نقطه فروش شاتل موبایل",
-                    "url": "https://newpos.shatelmobile.ir/"
+                    "title": "خرید آنلاین بیمه | مشاوره، مقایسه و استعلام | azki",
+                    "url": "https://www.azki.com/seller/auth"
                 },
                 {
                     "title": "Azki Seller | ازکی سلر",
@@ -202,6 +178,10 @@
                 {
                     "title": "میز خدمت الکترونیک آب وفاضلاب استان تهران",
                     "url": "https://mizkhedmat.tpww.ir/"
+                },
+                {
+                    "title": "صورتحساب مشتركين گاز طبيعي",
+                    "url": "http://newbilling.nigc.ir/"
                 },
                 {
                     "title": "همراه اول - همراه من",
@@ -524,10 +504,6 @@
                     "url": "https://bankmellat.ir/centralized_payment.aspx"
                 },
                 {
-                    "title": "بام بانک ملی",
-                    "url": "https://baambank.com/fa/auth/login"
-                },
-                {
                     "title": "سامانه بانکداری مجازی بانک پاسارگاد",
                     "url": "https://oauth.bpi.ir/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3FauthzId%3DF99E03679DF329156CE7B46296762E36198EF82C1522203470267129AE36DA64"
                 },
@@ -576,6 +552,10 @@
                     "url": "https://ib.postbank.ir/netway/index"
                 },
                 {
+                    "title": "سامانه بام",
+                    "url": "https://my.bmi.ir/portalserver/signin"
+                },
+                {
                     "title": "نتیجه تراکنش",
                     "url": "https://gnaf2.post.ir/payment-result"
                 },
@@ -590,6 +570,10 @@
                 {
                     "title": "دی‌دار | دی‌دار",
                     "url": "https://didar24.com/"
+                },
+                {
+                    "title": "بام بانک ملی",
+                    "url": "https://baambank.com/fa/auth/login"
                 },
                 {
                     "title": "بستن حساب های بانکی",
@@ -756,6 +740,10 @@
                     "url": "https://shop.barez.org/"
                 },
                 {
+                    "title": "سامانه یکپارچه",
+                    "url": "https://esalecar.ir/"
+                },
+                {
                     "title": "سامانه فروش ویژه سایپا",
                     "url": "https://saipa.iranecar.com/"
                 },
@@ -796,10 +784,6 @@
                     "url": "http://mayan-group.com/"
                 },
                 {
-                    "title": "سامانه فروش گروه بهمن",
-                    "url": "https://sale.bahman.ir/login"
-                },
-                {
                     "title": "سامانه فروش اینترنتی بهمن خودرو",
                     "url": "https://bahman.iranecar.com/"
                 },
@@ -814,6 +798,10 @@
                 {
                     "title": "وب سايت رسمي شركت سايپا - صفحه اصلي",
                     "url": "https://www.saipacorp.com/"
+                },
+                {
+                    "title": "سامانه فروش گروه بهمن",
+                    "url": "https://sale.bahman.ir/login"
                 },
                 {
                     "title": "سامانه احراز هویت ثنا | Sana Authentication",
@@ -1332,12 +1320,12 @@
                     "url": "https://www.sejam.ir/"
                 },
                 {
-                    "title": "احراز هویت سجام",
-                    "url": "https://sejamreg.rayanhamafza.ir/?dsCode=782#views/entry.html?ver=202604051736"
-                },
-                {
                     "title": "سجام رایگان",
                     "url": "https://accounts.ebidar.com/ui/login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Df82f73b9-6b7b-44ca-a96e-d9410b63d99e%26redirect_uri%3Dhttps%253A%252F%252Fex.ebidar.com%252Fverify%26response_type%3Did_token%26scope%3Dopenid%2520profile%2520useridentity%26state%3D5925ab5151824dfb92d31a6c4ecf8c40%26nonce%3Df015f06f1577483db1762d97d225c80a"
+                },
+                {
+                    "title": "احراز هویت سجام",
+                    "url": "https://edalat.itpishkhan.ir/?MarketingCode=50505050"
                 },
                 {
                     "title": "فروش سهام عدالت بانک ملی",
@@ -1364,8 +1352,16 @@
                     "url": "https://shoma.sfara.ir/"
                 },
                 {
+                    "title": "احراز هویت سجام",
+                    "url": "https://sejamreg.rayanhamafza.ir/?dsCode=782#views/entry.html?ver=202604051736"
+                },
+                {
                     "title": "استعلام آنلاین دهک معیشتی خانوار و مشاهده دهک بندی یارانه",
                     "url": "https://pishkhan24.com/subsidy/"
+                },
+                {
+                    "title": "سازمان تامین اجتماعی - مفاصاحساب ماده 38",
+                    "url": "https://eservices.tamin.ir/view/#/optional-insurance/freelance-detail-pay-premiume"
                 },
                 {
                     "title": "صندوق بیمه اجتماعی کشاورزان ، روستائیان و عشایر",
@@ -1440,14 +1436,6 @@
                     "url": "https://nobatdarman.tamin.ir/Home/GetPatient"
                 },
                 {
-                    "title": "فدراسیون پزشکی ورزشی جمهوری اسلامی ایران",
-                    "url": "https://athlete.ifsm.ir/"
-                },
-                {
-                    "title": "فدراسیون پزشکی ورزشی جمهوری اسلامی ایران",
-                    "url": "https://athlete.ifsm.ir/login"
-                },
-                {
                     "title": "پورتال بیمه سامان:: 990602 پرداخت آنلاین حق بیمه",
                     "url": "https://www.si24.ir/fa/static_pages/111441-990602-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%AD%D9%82-%D8%A8%DB%8C%D9%85%D9%87.html"
                 },
@@ -1500,6 +1488,10 @@
                     "url": "https://info.pasargadinsurance.ir/portal/printbimehnameh"
                 },
                 {
+                    "title": "فدراسیون پزشکی ورزشی جمهوری اسلامی ایران",
+                    "url": "https://athlete.ifsm.ir/Login"
+                },
+                {
                     "title": "بیمه بیکاری",
                     "url": "https://prkar.mcls.gov.ir/Login"
                 },
@@ -1522,6 +1514,14 @@
                 {
                     "title": "✅ پایه سنوات : جدول 1405 + محاسبه آنلاین",
                     "url": "https://bidbarg.net/blog/base-annuities/"
+                },
+                {
+                    "title": "فدراسیون پزشکی ورزشی جمهوری اسلامی ایران",
+                    "url": "https://athlete.ifsm.ir/"
+                },
+                {
+                    "title": "فدراسیون پزشکی ورزشی جمهوری اسلامی ایران",
+                    "url": "https://athlete.ifsm.ir/login"
                 },
                 {
                     "title": "درگاه ملی خدمات الکترونیک سازمان امور مالیاتی کشور",
@@ -1616,18 +1616,6 @@
                     "url": "https://rayabilan.com/inta/"
                 },
                 {
-                    "title": "صفحه اصلی",
-                    "url": "https://www.sabteahval.ir/"
-                },
-                {
-                    "title": "سامانه سهیم - سازمان ثبت احوال جمهوری اسلامی ایران",
-                    "url": "https://sahim.sabteahval.ir/login/"
-                },
-                {
-                    "title": "درگاه خدمات الکترونیکی سازمان ثبت احوال کشور",
-                    "url": "https://ncr.ir/"
-                },
-                {
                     "title": "سامانه نوبت دهی",
                     "url": "http://kanoonnobat.ir/"
                 },
@@ -1642,14 +1630,6 @@
                 {
                     "title": "atbagw.ir",
                     "url": "https://atbagw.ir/"
-                },
-                {
-                    "title": "پاسپورت های چاپ شده و آماده تحویل",
-                    "url": "https://www.appstehran.mfa.gov.af/peigiripassport.aspx"
-                },
-                {
-                    "title": "سیستم مدیریت مراجعات سفارت امارت اسلامی افغانستان-تهران",
-                    "url": "https://www.appstehran.mfa.gov.af/Default.aspx"
                 },
                 {
                     "title": "UNHCR Online Contact Form",
@@ -1668,12 +1648,12 @@
                     "url": "https://nid.nsia.gov.af/home"
                 },
                 {
-                    "title": "پاسپورت الکترونیک",
-                    "url": "https://nid.nsia.gov.af/home"
-                },
-                {
                     "title": "اداره کل امور اتباع و مهاجرین خارجی - صفحه اصلی",
                     "url": "https://bafia.moi.ir/"
+                },
+                {
+                    "title": "سیستم مدیریت مراجعات سفارت جمهوری اسلامی افغانستان-تهران",
+                    "url": "http://www.appstehran.com/"
                 },
                 {
                     "title": "اداره کل امور اتباع و مهاجرین خارجی - درخواست تشکیل پرونده تابعیت برای صدورشناسنامه فرزند مادر ایرانی بالای ۱۸ سال",
@@ -1720,8 +1700,28 @@
                     "url": "https://eatba.mcls.gov.ir/login"
                 },
                 {
+                    "title": "پاسپورت های چاپ شده و آماده تحویل",
+                    "url": "https://www.appstehran.mfa.gov.af/peigiripassport.aspx"
+                },
+                {
+                    "title": "سیستم مدیریت مراجعات سفارت امارت اسلامی افغانستان-تهران",
+                    "url": "https://www.appstehran.mfa.gov.af/Default.aspx"
+                },
+                {
                     "title": "IR-IRAN Electronic Visa (Iran eVisa) Application - Ministry of Foreign Affairs",
                     "url": "https://evisa.mfa.ir/en/"
+                },
+                {
+                    "title": "صفحه اصلی",
+                    "url": "https://www.sabteahval.ir/"
+                },
+                {
+                    "title": "سامانه سهیم - سازمان ثبت احوال جمهوری اسلامی ایران",
+                    "url": "https://sahim.sabteahval.ir/login/"
+                },
+                {
+                    "title": "درگاه خدمات الکترونیکی سازمان ثبت احوال کشور",
+                    "url": "https://ncr.ir/"
                 },
                 {
                     "title": "باهم | فارابی‌زون",
@@ -1758,6 +1758,50 @@
                 {
                     "title": "New Tab",
                     "url": "http://gas.tceo.ir/"
+                },
+                {
+                    "title": "دریافت آنلاین تنظیمات اینترنت همراه – ایرانسل",
+                    "url": "https://irancell.ir/p/1712/%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87"
+                },
+                {
+                    "title": "ایرانسل من نسخه وب",
+                    "url": "https://my.irancell.ir/"
+                },
+                {
+                    "title": "پرداخت سیم کارت ایرانسل",
+                    "url": "https://shop.irancell.ir/bill_payment/fa/"
+                },
+                {
+                    "title": "رایتل - خدمات خرید و پرداخت مستقیم",
+                    "url": "https://www.rightel.ir/direct-payment-services"
+                },
+                {
+                    "title": "خرید شارژ عمده ارزان ایرانسل همراه رايتل خط به خط",
+                    "url": "https://ir93.com/"
+                },
+                {
+                    "title": "شرکت مخابرات ایران",
+                    "url": "https://tci-old.tci.ir/header/creditCard"
+                },
+                {
+                    "title": "شارژ تلفن همگانی",
+                    "url": "https://tci.ir/header/creditCard"
+                },
+                {
+                    "title": "تماس با ما – ایرانسل – اولین و بزرگترین اپراتور دیجیتال ایران و عرضه‌کننده اینترنت پرسرعت همراه 3G، 4G،5G و اینترنت ثابت TD-LTE",
+                    "url": "https://irancell.ir/p/1590/%D8%AA%D9%85%D8%A7%D8%B3_%D8%A8%D8%A7_%D9%85%D8%A7"
+                },
+                {
+                    "title": "صورت حساب رایتل",
+                    "url": "https://billing.rightel.ir/PayBills/CalculatePayBill/CalculatePayBill?_ga=2.230248092.1687241510.1684599104-2041479112.1684599104&_gl=1*ymowvl*_ga*MjA0MTQ3OTExMi4xNjg0NTk5MTA0*_ga_9JR7CP11T3*MTY4NDU5OTEwNC4xLjEuMTY4NDU5OTExNC41MC4wLjA."
+                },
+                {
+                    "title": "پنل فروشگاهی eways - شارژ،شارژ مستقیم،قبض،سیمکارت،مودم،بلیط",
+                    "url": "https://panel.eways.co/user/login/"
+                },
+                {
+                    "title": "رایتل - نمایش صورت حساب سیم کارت دایمی مشترک",
+                    "url": "https://billing.rightel.ir/PayBills/CalculatePayBill/CalculatePayBill?_gl=1*6wdwm6*_ga*Njc3OTIyMDM5LjE2NjM0NzU1Njc.*_ga_9JR7CP11T3*MTY2NDcyNDU2OS4yLjAuMTY2NDcyNDU2OS42MC4wLjA.&_ga=2.135142449.1010338852.1664724572-677922039.1663475567"
                 },
                 {
                     "title": "ورود به اکانت",
@@ -1814,50 +1858,6 @@
                 {
                     "title": "درگاه خدمات یکپارچه",
                     "url": "https://web.kateb.ir/use/login"
-                },
-                {
-                    "title": "دریافت آنلاین تنظیمات اینترنت همراه – ایرانسل",
-                    "url": "https://irancell.ir/p/1712/%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87"
-                },
-                {
-                    "title": "ایرانسل من نسخه وب",
-                    "url": "https://my.irancell.ir/"
-                },
-                {
-                    "title": "پرداخت سیم کارت ایرانسل",
-                    "url": "https://shop.irancell.ir/bill_payment/fa/"
-                },
-                {
-                    "title": "رایتل - خدمات خرید و پرداخت مستقیم",
-                    "url": "https://www.rightel.ir/direct-payment-services"
-                },
-                {
-                    "title": "خرید شارژ عمده ارزان ایرانسل همراه رايتل خط به خط",
-                    "url": "https://ir93.com/"
-                },
-                {
-                    "title": "شرکت مخابرات ایران",
-                    "url": "https://tci-old.tci.ir/header/creditCard"
-                },
-                {
-                    "title": "شارژ تلفن همگانی",
-                    "url": "https://tci.ir/header/creditCard"
-                },
-                {
-                    "title": "تماس با ما – ایرانسل – اولین و بزرگترین اپراتور دیجیتال ایران و عرضه‌کننده اینترنت پرسرعت همراه 3G، 4G،5G و اینترنت ثابت TD-LTE",
-                    "url": "https://irancell.ir/p/1590/%D8%AA%D9%85%D8%A7%D8%B3_%D8%A8%D8%A7_%D9%85%D8%A7"
-                },
-                {
-                    "title": "صورت حساب رایتل",
-                    "url": "https://billing.rightel.ir/PayBills/CalculatePayBill/CalculatePayBill?_ga=2.230248092.1687241510.1684599104-2041479112.1684599104&_gl=1*ymowvl*_ga*MjA0MTQ3OTExMi4xNjg0NTk5MTA0*_ga_9JR7CP11T3*MTY4NDU5OTEwNC4xLjEuMTY4NDU5OTExNC41MC4wLjA."
-                },
-                {
-                    "title": "پنل فروشگاهی eways - شارژ،شارژ مستقیم،قبض،سیمکارت،مودم،بلیط",
-                    "url": "https://panel.eways.co/user/login/"
-                },
-                {
-                    "title": "رایتل - نمایش صورت حساب سیم کارت دایمی مشترک",
-                    "url": "https://billing.rightel.ir/PayBills/CalculatePayBill/CalculatePayBill?_gl=1*6wdwm6*_ga*Njc3OTIyMDM5LjE2NjM0NzU1Njc.*_ga_9JR7CP11T3*MTY2NDcyNDU2OS4yLjAuMTY2NDcyNDU2OS42MC4wLjA.&_ga=2.135142449.1010338852.1664724572-677922039.1663475567"
                 },
                 {
                     "title": "شرکت ملی پست | درگاه خدمات الکترونیک GNAF",
@@ -2312,7 +2312,7 @@
                     "url": "https://sadadpsp.ir/Tollpayment/"
                 },
                 {
-                    "title": "ورود به سیستم",
+                    "title": "ثبت نام عتبات/حج",
                     "url": "https://atabatorg.haj.ir/login.aspx"
                 },
                 {
@@ -2330,170 +2330,6 @@
                 {
                     "title": "سازمان حج و زیارت > خانه",
                     "url": "https://www.haj.ir/"
-                },
-                {
-                    "title": "ناحیه کاربری - آبنوس انفورماتیک | ارائه دهنده خدمات حرفه‌ای میزبانی وب ، سرور مجازی ، سرور اختصاصی ، ثبت دامنه ، گواهینامه امنیتی",
-                    "url": "https://abnoos.com/clientarea.php"
-                },
-                {
-                    "title": "Home - Google Drive",
-                    "url": "https://drive.google.com/drive/u/1/home"
-                },
-                {
-                    "title": "پیشخوان ‹ کافی نت کلیک (یوسفی) — وردپرس",
-                    "url": "https://clickcoffeenet.ir/wp-admin/index.php"
-                },
-                {
-                    "title": "کافی نت کلیک (یوسفی)",
-                    "url": "https://clickcoffeenet.ir/"
-                },
-                {
-                    "title": "ایرنیک (IRNIC) – ایرنیک",
-                    "url": "https://www.nic.ir/"
-                },
-                {
-                    "title": "ورود ‹ کافی نت کلیک (یوسفی) — وردپرس",
-                    "url": "https://clickcoffeenet.ir/clickbackend/"
-                },
-                {
-                    "title": "negahpayamak.com/MyLogin.aspx?ReturnUrl=%2f",
-                    "url": "http://negahpayamak.com/MyLogin.aspx?ReturnUrl=%2f"
-                },
-                {
-                    "title": "پرداخت | مستر خطیب",
-                    "url": "https://mrkhatib.com/checkout/order-received/13230/?key=wc_order_lN7rYpSDOHwk5&utm_nooverride=1&wc_status=success"
-                },
-                {
-                    "title": "Login",
-                    "url": "https://portal.kosarrb.com/Authorize"
-                },
-                {
-                    "title": "راه اندازی، کانفیگ و پیکربندی اولیه سرور hp 📌(آموزش تصویری)",
-                    "url": "https://falnic.com/blog/initialize-of-server.html"
-                },
-                {
-                    "title": "ورود به حالت safe mode در ویندوز 11 - safe mode چیست؟ - فروشگاه اینترنتی سازگار",
-                    "url": "https://shop.sazgar.com/%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D8%AD%D8%A7%D9%84%D8%AA-safe-mode-%D8%AF%D8%B1-%D9%88%DB%8C%D9%86%D8%AF%D9%88%D8%B2-11-safe-mode-%DA%86%DB%8C%D8%B3%D8%AA%D8%9F/"
-                },
-                {
-                    "title": "دستورات کاربردی سوئیچ سیسکو به همراه توضیحات برای هر کامند، - شبکه گستران فرابورس",
-                    "url": "https://www.cisco-shabake.com/cisco-switch-practical-commands/"
-                },
-                {
-                    "title": "ناسا | لنس | شرکت‌ها",
-                    "url": "https://firms.modaps.eosdis.nasa.gov/map/#d:2025-10-31;l:fires_all,countries,earth;@51.611,35.589,11.301z"
-                },
-                {
-                    "title": "DoH Proxy - DNS over HTTPS (Enhanced Anti-Censorship)",
-                    "url": "https://raspy-dew-a01d.khadamat-ghaem021.workers.dev/"
-                },
-                {
-                    "title": "IranRouter - MikroTik RouterOS, CHR & Patch Downloads Mirror",
-                    "url": "https://iranrouter.org/"
-                },
-                {
-                    "title": "Explore Docker's Container Image Repository | Docker Hub",
-                    "url": "https://hub.docker.com/search?q=v2ray"
-                },
-                {
-                    "title": "وب سایت",
-                    "url": "https://cms.hamoonpay.com/user-register"
-                },
-                {
-                    "title": "ZeroTier – Network Member Devices",
-                    "url": "https://central.zerotier.com/network/8d1c312afad237e8"
-                },
-                {
-                    "title": "کدها و خطاهای فتوکپی ریکو آفیشیو 2045",
-                    "url": "https://copyir.com/%DA%A9%D8%AF%D9%87%D8%A7-%D9%88-%D8%AE%D8%B7%D8%A7%D9%87%D8%A7%DB%8C-%D9%81%D8%AA%D9%88%DA%A9%D9%BE%DB%8C-%D8%B1%DB%8C%DA%A9%D9%88-%D8%A2%D9%81%DB%8C%D8%B4%DB%8C%D9%88-2045"
-                },
-                {
-                    "title": "Saman Loan",
-                    "url": "https://samanloan.sb24.ir/login"
-                },
-                {
-                    "title": "دارندگان دستگاه کارتخوان | بانک سامان",
-                    "url": "https://www.sb24.ir/sme/loans/special-plans/pos-loan"
-                },
-                {
-                    "title": "کارتخوان - دستگاه کارتخوان - دستگاه پوز | بانک سامان",
-                    "url": "https://www.sb24.ir/e-services/tools/pos"
-                },
-                {
-                    "title": "سِپ‌من - درخواست کارتخوان",
-                    "url": "https://my.sep.ir/Pos/PosRequest?AspxAutoDetectCookieSupport=1"
-                },
-                {
-                    "title": "Nova — Auto Install",
-                    "url": "https://novaproxy.online/install"
-                },
-                {
-                    "title": "Nova Proxy, Control Panel",
-                    "url": "https://nova-falcon-core-cad5.khadamat-ghaem021.workers.dev/admin"
-                },
-                {
-                    "title": "ورود | کمالی حسابداری",
-                    "url": "https://secure-signup-pal.lovable.app/login"
-                },
-                {
-                    "title": "نرم افزار حضور غیاب فینتو | داشبورد",
-                    "url": "https://attendance.finto.ir/"
-                },
-                {
-                    "title": "توزیع کنندگان عمده | ایرانسل؛ نبض زندگی دیجیتال",
-                    "url": "https://irancell.ir/p/1596/%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%B9%D9%85%D8%AF%D9%87"
-                },
-                {
-                    "title": "Nova Proxy, Control Panel",
-                    "url": "https://nova-luna-vault-9ea1.khadamat-ghaem021.workers.dev/admin"
-                },
-                {
-                    "title": "فریمور بدون نام بدون نام شاسی (برد اصلی): ZH-824-2AHD-V2A",
-                    "url": "https://remont-aud.net/dump/gps_navigatory_videoregistratory/prochee/no_name_no_name_shassi_main_board_zh_824_2ahd_v2a/296-1-0-155586"
-                },
-                {
-                    "title": "سامانه مدیریت گواهی کسر از حقوق پرسنل شاغل",
-                    "url": "https://medusp.ir/Login.aspx"
-                },
-                {
-                    "title": "Nova Proxy, Control Panel",
-                    "url": "https://nova-orbit-spark-6015.nova-25a449.workers.dev/69526b6241ef"
-                },
-                {
-                    "title": "سامانه 2020 - درگاه ملی کارشناسی",
-                    "url": "https://2020kanoon.ir/"
-                },
-                {
-                    "title": "ZeroTier – Network Settings",
-                    "url": "https://central.zerotier.com/network/8d1c312afad237e8/settings#detail"
-                },
-                {
-                    "title": "App passwords",
-                    "url": "https://myaccount.google.com/apppasswords?pli=1&rapt=AEjHL4OXTR7K0KVt2tDgnNsO6HU6mgH3laeHxz49fHwhNctYhsGlcQDK17wYcsImRy0nuOgqRCLXDEuuQVhf8aF6DYiCEAHlJJsZRDQ-0QiyNHjWZjYoeFg"
-                },
-                {
-                    "title": "آموزش نصب V2Ray روی روتر گوگل (OpenWrt) | اینترنت بدون فیلتر + Balancing + جداسازی سایت‌های ایرانی",
-                    "url": "https://www.aparat.com/v/ies575g"
-                },
-                {
-                    "title": "شبکه موقعیت یابی یکپارچه مالکیت ها",
-                    "url": "https://shamim.ssaa.ir/"
-                },
-                {
-                    "title": "GSM GPT | انتخاب برند",
-                    "url": "https://panel.gsmgpt.com/select-brand.php?t=1791707219386"
-                },
-                {
-                    "title": "راهنمای اتصال نرم افزار به دستگاه های کارت خوان پوز بانکی",
-                    "url": "https://easysofts.ir/PosHelp"
-                },
-                {
-                    "title": "نرم‌افزارهای گارانتی متین - داده پرداز رایانه متین",
-                    "url": "https://www.matin.co/matin-guaranty-softwares/"
-                },
-                {
-                    "title": "Python Releases for Windows | Python.org",
-                    "url": "https://www.python.org/downloads/windows/"
                 },
                 {
                     "title": "برتینا - موتور جستجوی فارسی",
@@ -2700,48 +2536,16 @@
                     "url": "https://1543.ir/"
                 },
                 {
-                    "title": "بهترین DNS های پر سرعت و رایگان 2023",
-                    "url": "https://kaliboys.com/best-dns-server/"
+                    "title": "سامانه صدور، چاپ و استعلام گواهینامه فنی و حرفه‌ای",
+                    "url": "https://cert.irantvto.ir/"
                 },
                 {
-                    "title": "ریست پسورد و بازیابی رمز DVR و NVR بدون نیاز به ارسال دستگاه - آراز کیت",
-                    "url": "https://arazkit.ir/reset-passwords/"
-                },
-                {
-                    "title": "مستقیم کردن ترافیک وبسایت های داخلی در V2ray - YouTube",
-                    "url": "https://www.youtube.com/watch?v=PIaUHsnzR-g"
-                },
-                {
-                    "title": "اعطای نمایندگی فروش رایتل – پردیس تجارت الکترونیک",
-                    "url": "http://ptesim.ir/%D8%A7%D8%B9%D8%B7%D8%A7%DB%8C-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C-%D8%B1%D8%A7%DB%8C%D8%AA%D9%84/"
-                },
-                {
-                    "title": "سازمان تامین اجتماعی - مفاصاحساب ماده 38",
-                    "url": "https://eservices.tamin.ir/view/#/optional-insurance/freelance-detail-pay-premiume"
-                },
-                {
-                    "title": "F1 Start Timer",
-                    "url": "https://f1-start.glitch.me/"
-                },
-                {
-                    "title": "سامانه مدیریت یادگیری جمعیت هلال احمر ایران",
-                    "url": "https://lms.rcs.ir/"
-                },
-                {
-                    "title": "سامانه مهارت آموزی و اشتغال سربازان وظیفه",
-                    "url": "https://samasoo.ir/"
-                },
-                {
-                    "title": "اينترنت بانک سپهر",
-                    "url": "https://bib.bsi.ir/public-page.ib"
+                    "title": "سامانه فروش خودرو | سایپا",
+                    "url": "https://saipa.iranecar.com/public/winners"
                 },
                 {
                     "title": "azmoon.irantvto.ir",
                     "url": "https://azmoon.irantvto.ir/"
-                },
-                {
-                    "title": "سامانه صدور، چاپ و استعلام گواهینامه فنی و حرفه‌ای",
-                    "url": "https://cert.irantvto.ir/"
                 }
             ]
         },
@@ -2749,32 +2553,8 @@
             "name": "پنل ها",
             "websites": [
                 {
-                    "title": "سامانه نمایندگان - رایتل",
-                    "url": "https://dealer.rightel.ir/auth/login"
-                },
-                {
-                    "title": "سامانه فروش و خدمات ایرانسل",
-                    "url": "https://sale.irancell.ir/"
-                },
-                {
-                    "title": "shatel",
-                    "url": "https://pos.shatelmobile.ir/shatelpdv/;jsessionid=B02CD568BD77A03CF6E5D5CD26E4AF5A.bssclients_app101?0"
-                },
-                {
-                    "title": "سرویس پست الکترونیکی پیشخوان نمایندگان رایتل",
-                    "url": "https://mail.rightel.net/owa/auth/logon.aspx?url=https%3a%2f%2fmail.rightel.net%2fowa%2f&reason=0"
-                },
-                {
-                    "title": "مدیریت حساب شاتل موبایل",
-                    "url": "https://my.shatelmobile.ir/#!/vas-offers"
-                },
-                {
-                    "title": "ریست رمز پنل",
-                    "url": "https://rp.shatelmobile.ir/"
-                },
-                {
-                    "title": "ورود |‌ نقطه فروش شاتل موبایل",
-                    "url": "https://newpos.shatelmobile.ir/"
+                    "title": "خرید آنلاین بیمه | مشاوره، مقایسه و استعلام | azki",
+                    "url": "https://www.azki.com/seller/auth"
                 },
                 {
                     "title": "Azki Seller | ازکی سلر",
@@ -2891,54 +2671,12 @@
             ]
         },
         {
-            "name": "سیم کارت",
-            "websites": [
-                {
-                    "title": "سامانه نمایندگان - رایتل",
-                    "url": "https://dealer.rightel.ir/auth/login"
-                },
-                {
-                    "title": "سامانه فروش و خدمات ایرانسل",
-                    "url": "https://sale.irancell.ir/"
-                },
-                {
-                    "title": "shatel",
-                    "url": "https://pos.shatelmobile.ir/shatelpdv/;jsessionid=B02CD568BD77A03CF6E5D5CD26E4AF5A.bssclients_app101?0"
-                },
-                {
-                    "title": "سرویس پست الکترونیکی پیشخوان نمایندگان رایتل",
-                    "url": "https://mail.rightel.net/owa/auth/logon.aspx?url=https%3a%2f%2fmail.rightel.net%2fowa%2f&reason=0"
-                },
-                {
-                    "title": "مدیریت حساب شاتل موبایل",
-                    "url": "https://my.shatelmobile.ir/#!/vas-offers"
-                },
-                {
-                    "title": "ریست رمز پنل",
-                    "url": "https://rp.shatelmobile.ir/"
-                },
-                {
-                    "title": "ورود |‌ نقطه فروش شاتل موبایل",
-                    "url": "https://newpos.shatelmobile.ir/"
-                }
-            ]
-        },
-        {
-            "name": "ریست رمز پنل ها",
-            "websites": [
-                {
-                    "title": "مدیریت حساب شاتل موبایل",
-                    "url": "https://my.shatelmobile.ir/#!/vas-offers"
-                },
-                {
-                    "title": "ریست رمز پنل",
-                    "url": "https://rp.shatelmobile.ir/"
-                }
-            ]
-        },
-        {
             "name": "پنل بیمه",
             "websites": [
+                {
+                    "title": "خرید آنلاین بیمه | مشاوره، مقایسه و استعلام | azki",
+                    "url": "https://www.azki.com/seller/auth"
+                },
                 {
                     "title": "Azki Seller | ازکی سلر",
                     "url": "https://azkiagent.com/login"
@@ -3019,6 +2757,10 @@
                 {
                     "title": "میز خدمت الکترونیک آب وفاضلاب استان تهران",
                     "url": "https://mizkhedmat.tpww.ir/"
+                },
+                {
+                    "title": "صورتحساب مشتركين گاز طبيعي",
+                    "url": "http://newbilling.nigc.ir/"
                 },
                 {
                     "title": "همراه اول - همراه من",
@@ -3346,10 +3088,6 @@
                     "url": "https://bankmellat.ir/centralized_payment.aspx"
                 },
                 {
-                    "title": "بام بانک ملی",
-                    "url": "https://baambank.com/fa/auth/login"
-                },
-                {
                     "title": "سامانه بانکداری مجازی بانک پاسارگاد",
                     "url": "https://oauth.bpi.ir/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3FauthzId%3DF99E03679DF329156CE7B46296762E36198EF82C1522203470267129AE36DA64"
                 },
@@ -3398,6 +3136,10 @@
                     "url": "https://ib.postbank.ir/netway/index"
                 },
                 {
+                    "title": "سامانه بام",
+                    "url": "https://my.bmi.ir/portalserver/signin"
+                },
+                {
                     "title": "نتیجه تراکنش",
                     "url": "https://gnaf2.post.ir/payment-result"
                 },
@@ -3412,6 +3154,10 @@
                 {
                     "title": "دی‌دار | دی‌دار",
                     "url": "https://didar24.com/"
+                },
+                {
+                    "title": "بام بانک ملی",
+                    "url": "https://baambank.com/fa/auth/login"
                 },
                 {
                     "title": "بستن حساب های بانکی",
@@ -3865,6 +3611,10 @@
                     "url": "https://shop.barez.org/"
                 },
                 {
+                    "title": "سامانه یکپارچه",
+                    "url": "https://esalecar.ir/"
+                },
+                {
                     "title": "سامانه فروش ویژه سایپا",
                     "url": "https://saipa.iranecar.com/"
                 },
@@ -3905,10 +3655,6 @@
                     "url": "http://mayan-group.com/"
                 },
                 {
-                    "title": "سامانه فروش گروه بهمن",
-                    "url": "https://sale.bahman.ir/login"
-                },
-                {
                     "title": "سامانه فروش اینترنتی بهمن خودرو",
                     "url": "https://bahman.iranecar.com/"
                 },
@@ -3923,6 +3669,10 @@
                 {
                     "title": "وب سايت رسمي شركت سايپا - صفحه اصلي",
                     "url": "https://www.saipacorp.com/"
+                },
+                {
+                    "title": "سامانه فروش گروه بهمن",
+                    "url": "https://sale.bahman.ir/login"
                 },
                 {
                     "title": "سامانه احراز هویت ثنا | Sana Authentication",
@@ -4211,6 +3961,10 @@
             "name": "ثبت نام خودرو",
             "websites": [
                 {
+                    "title": "سامانه یکپارچه",
+                    "url": "https://esalecar.ir/"
+                },
+                {
                     "title": "سامانه فروش ویژه سایپا",
                     "url": "https://saipa.iranecar.com/"
                 },
@@ -4251,10 +4005,6 @@
                     "url": "http://mayan-group.com/"
                 },
                 {
-                    "title": "سامانه فروش گروه بهمن",
-                    "url": "https://sale.bahman.ir/login"
-                },
-                {
                     "title": "سامانه فروش اینترنتی بهمن خودرو",
                     "url": "https://bahman.iranecar.com/"
                 },
@@ -4269,6 +4019,10 @@
                 {
                     "title": "وب سايت رسمي شركت سايپا - صفحه اصلي",
                     "url": "https://www.saipacorp.com/"
+                },
+                {
+                    "title": "سامانه فروش گروه بهمن",
+                    "url": "https://sale.bahman.ir/login"
                 },
                 {
                     "title": "سامانه احراز هویت ثنا | Sana Authentication",
@@ -4965,12 +4719,12 @@
                     "url": "https://www.sejam.ir/"
                 },
                 {
-                    "title": "احراز هویت سجام",
-                    "url": "https://sejamreg.rayanhamafza.ir/?dsCode=782#views/entry.html?ver=202604051736"
-                },
-                {
                     "title": "سجام رایگان",
                     "url": "https://accounts.ebidar.com/ui/login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Df82f73b9-6b7b-44ca-a96e-d9410b63d99e%26redirect_uri%3Dhttps%253A%252F%252Fex.ebidar.com%252Fverify%26response_type%3Did_token%26scope%3Dopenid%2520profile%2520useridentity%26state%3D5925ab5151824dfb92d31a6c4ecf8c40%26nonce%3Df015f06f1577483db1762d97d225c80a"
+                },
+                {
+                    "title": "احراز هویت سجام",
+                    "url": "https://edalat.itpishkhan.ir/?MarketingCode=50505050"
                 },
                 {
                     "title": "فروش سهام عدالت بانک ملی",
@@ -4995,6 +4749,10 @@
                 {
                     "title": "اپلیکیشن شما - اپلیکیشن شبکه ملی اعتبار",
                     "url": "https://shoma.sfara.ir/"
+                },
+                {
+                    "title": "احراز هویت سجام",
+                    "url": "https://sejamreg.rayanhamafza.ir/?dsCode=782#views/entry.html?ver=202604051736"
                 },
                 {
                     "title": "استعلام آنلاین دهک معیشتی خانوار و مشاهده دهک بندی یارانه",
@@ -5052,6 +4810,10 @@
         {
             "name": "بیمه",
             "websites": [
+                {
+                    "title": "سازمان تامین اجتماعی - مفاصاحساب ماده 38",
+                    "url": "https://eservices.tamin.ir/view/#/optional-insurance/freelance-detail-pay-premiume"
+                },
                 {
                     "title": "صندوق بیمه اجتماعی کشاورزان ، روستائیان و عشایر",
                     "url": "http://roostaa.ir/"
@@ -5125,14 +4887,6 @@
                     "url": "https://nobatdarman.tamin.ir/Home/GetPatient"
                 },
                 {
-                    "title": "فدراسیون پزشکی ورزشی جمهوری اسلامی ایران",
-                    "url": "https://athlete.ifsm.ir/"
-                },
-                {
-                    "title": "فدراسیون پزشکی ورزشی جمهوری اسلامی ایران",
-                    "url": "https://athlete.ifsm.ir/login"
-                },
-                {
                     "title": "پورتال بیمه سامان:: 990602 پرداخت آنلاین حق بیمه",
                     "url": "https://www.si24.ir/fa/static_pages/111441-990602-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%AD%D9%82-%D8%A8%DB%8C%D9%85%D9%87.html"
                 },
@@ -5185,6 +4939,10 @@
                     "url": "https://info.pasargadinsurance.ir/portal/printbimehnameh"
                 },
                 {
+                    "title": "فدراسیون پزشکی ورزشی جمهوری اسلامی ایران",
+                    "url": "https://athlete.ifsm.ir/Login"
+                },
+                {
                     "title": "بیمه بیکاری",
                     "url": "https://prkar.mcls.gov.ir/Login"
                 },
@@ -5207,6 +4965,14 @@
                 {
                     "title": "✅ پایه سنوات : جدول 1405 + محاسبه آنلاین",
                     "url": "https://bidbarg.net/blog/base-annuities/"
+                },
+                {
+                    "title": "فدراسیون پزشکی ورزشی جمهوری اسلامی ایران",
+                    "url": "https://athlete.ifsm.ir/"
+                },
+                {
+                    "title": "فدراسیون پزشکی ورزشی جمهوری اسلامی ایران",
+                    "url": "https://athlete.ifsm.ir/login"
                 }
             ]
         },
@@ -5413,23 +5179,6 @@
             ]
         },
         {
-            "name": "ثبت احوال",
-            "websites": [
-                {
-                    "title": "صفحه اصلی",
-                    "url": "https://www.sabteahval.ir/"
-                },
-                {
-                    "title": "سامانه سهیم - سازمان ثبت احوال جمهوری اسلامی ایران",
-                    "url": "https://sahim.sabteahval.ir/login/"
-                },
-                {
-                    "title": "درگاه خدمات الکترونیکی سازمان ثبت احوال کشور",
-                    "url": "https://ncr.ir/"
-                }
-            ]
-        },
-        {
             "name": "اتباع",
             "websites": [
                 {
@@ -5449,14 +5198,6 @@
                     "url": "https://atbagw.ir/"
                 },
                 {
-                    "title": "پاسپورت های چاپ شده و آماده تحویل",
-                    "url": "https://www.appstehran.mfa.gov.af/peigiripassport.aspx"
-                },
-                {
-                    "title": "سیستم مدیریت مراجعات سفارت امارت اسلامی افغانستان-تهران",
-                    "url": "https://www.appstehran.mfa.gov.af/Default.aspx"
-                },
-                {
                     "title": "UNHCR Online Contact Form",
                     "url": "https://enketo.unhcr.org/x/Nt1mnkab?_gl=1*xm33z5*_rup_ga*MjIzMTExNzEwLjE3NDU1MzgxMDY.*_rup_ga_EVDQTJ4LMY*MTc0NTUzODEwNS4xLjEuMTc0NTUzODQ5Ny42MC4wLjA.*_gcl_au*MTk5NTYyODA3NC4xNzQ1NTM4MTA1*_ga*MjIzMTExNzEwLjE3NDU1MzgxMDY.*_ga_LWE302QVCZ*MTc0NTUzODEwNi4xLjEuMTc0NTUzODQ5Ny42MC4wLjA"
                 },
@@ -5473,12 +5214,12 @@
                     "url": "https://nid.nsia.gov.af/home"
                 },
                 {
-                    "title": "پاسپورت الکترونیک",
-                    "url": "https://nid.nsia.gov.af/home"
-                },
-                {
                     "title": "اداره کل امور اتباع و مهاجرین خارجی - صفحه اصلی",
                     "url": "https://bafia.moi.ir/"
+                },
+                {
+                    "title": "سیستم مدیریت مراجعات سفارت جمهوری اسلامی افغانستان-تهران",
+                    "url": "http://www.appstehran.com/"
                 },
                 {
                     "title": "اداره کل امور اتباع و مهاجرین خارجی - درخواست تشکیل پرونده تابعیت برای صدورشناسنامه فرزند مادر ایرانی بالای ۱۸ سال",
@@ -5525,13 +5266,38 @@
                     "url": "https://eatba.mcls.gov.ir/login"
                 },
                 {
+                    "title": "پاسپورت های چاپ شده و آماده تحویل",
+                    "url": "https://www.appstehran.mfa.gov.af/peigiripassport.aspx"
+                },
+                {
+                    "title": "سیستم مدیریت مراجعات سفارت امارت اسلامی افغانستان-تهران",
+                    "url": "https://www.appstehran.mfa.gov.af/Default.aspx"
+                },
+                {
                     "title": "IR-IRAN Electronic Visa (Iran eVisa) Application - Ministry of Foreign Affairs",
                     "url": "https://evisa.mfa.ir/en/"
                 }
             ]
         },
         {
-            "name": "پرکاربرد",
+            "name": "ثبت احوال",
+            "websites": [
+                {
+                    "title": "صفحه اصلی",
+                    "url": "https://www.sabteahval.ir/"
+                },
+                {
+                    "title": "سامانه سهیم - سازمان ثبت احوال جمهوری اسلامی ایران",
+                    "url": "https://sahim.sabteahval.ir/login/"
+                },
+                {
+                    "title": "درگاه خدمات الکترونیکی سازمان ثبت احوال کشور",
+                    "url": "https://ncr.ir/"
+                }
+            ]
+        },
+        {
+            "name": "بورس",
             "websites": [
                 {
                     "title": "باهم | فارابی‌زون",
@@ -5544,7 +5310,12 @@
                 {
                     "title": "احراز هویت الکترونیک سجام",
                     "url": "https://sapp.isignal.ir/#/signup/step1"
-                },
+                }
+            ]
+        },
+        {
+            "name": "وام ازدواج و فرزند",
+            "websites": [
                 {
                     "title": "سامانه تسهیلات قرض الحسنه ازدواج و فرزند",
                     "url": "https://ve.cbi.ir/"
@@ -5568,63 +5339,12 @@
                 {
                     "title": "New Tab",
                     "url": "http://gas.tceo.ir/"
-                },
-                {
-                    "title": "ورود به اکانت",
-                    "url": "https://www.instagram.com/"
-                },
-                {
-                    "title": "دیلیت اکانت",
-                    "url": "https://www.instagram.com/accounts/login/?next=/accounts/remove/request/permanent/"
-                },
-                {
-                    "title": "هلپ سنتر دیلیت اکانت",
-                    "url": "https://help.instagram.com/139886812848894"
-                },
-                {
-                    "title": "تاییدیه کد پستی",
-                    "url": "https://gnaf2.post.ir/certification#5/31.77/54.82"
-                },
-                {
-                    "title": "درگاه خدمات یکپارچه",
-                    "url": "https://web.kateb.ir/user/register"
-                },
-                {
-                    "title": "سامانه خودنویس",
-                    "url": "https://khodnevis.mrud.ir/"
-                },
-                {
-                    "title": "سامانه ثبت الکترونیکی پذیرش درخواست صدور سند مالکیت",
-                    "url": "https://sabtemelk.ssaa.ir/"
-                },
-                {
-                    "title": "صفحه اصلی | سامانه جامع طرح های حمایتی مسکن",
-                    "url": "https://saman.mrud.ir/"
-                },
-                {
-                    "title": "املاک واسکان",
-                    "url": "https://amlak.mrud.ir/"
-                },
-                {
-                    "title": "بنیاد مسکن درخواست",
-                    "url": "https://svs.bonyadmaskan.ir/"
-                },
-                {
-                    "title": "سامانه پنجره واحد زمین",
-                    "url": "https://zamin.gov.ir/"
-                },
-                {
-                    "title": "استعلام کد رهگیر املاک",
-                    "url": "https://www.iranamlaak.ir/forms/contracts/filtercontractsbycontractside.aspx"
-                },
-                {
-                    "title": "ثبت من",
-                    "url": "https://my.ssaa.ir/portal"
-                },
-                {
-                    "title": "درگاه خدمات یکپارچه",
-                    "url": "https://web.kateb.ir/use/login"
-                },
+                }
+            ]
+        },
+        {
+            "name": "شرکت مخابراتی ها",
+            "websites": [
                 {
                     "title": "دریافت آنلاین تنظیمات اینترنت همراه – ایرانسل",
                     "url": "https://irancell.ir/p/1712/%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87"
@@ -5668,7 +5388,78 @@
                 {
                     "title": "رایتل - نمایش صورت حساب سیم کارت دایمی مشترک",
                     "url": "https://billing.rightel.ir/PayBills/CalculatePayBill/CalculatePayBill?_gl=1*6wdwm6*_ga*Njc3OTIyMDM5LjE2NjM0NzU1Njc.*_ga_9JR7CP11T3*MTY2NDcyNDU2OS4yLjAuMTY2NDcyNDU2OS42MC4wLjA.&_ga=2.135142449.1010338852.1664724572-677922039.1663475567"
+                }
+            ]
+        },
+        {
+            "name": "دیلیت اکانت",
+            "websites": [
+                {
+                    "title": "ورود به اکانت",
+                    "url": "https://www.instagram.com/"
                 },
+                {
+                    "title": "دیلیت اکانت",
+                    "url": "https://www.instagram.com/accounts/login/?next=/accounts/remove/request/permanent/"
+                },
+                {
+                    "title": "هلپ سنتر دیلیت اکانت",
+                    "url": "https://help.instagram.com/139886812848894"
+                }
+            ]
+        },
+        {
+            "name": "املاک و مستغلات و کد پستی",
+            "websites": [
+                {
+                    "title": "تاییدیه کد پستی",
+                    "url": "https://gnaf2.post.ir/certification#5/31.77/54.82"
+                },
+                {
+                    "title": "درگاه خدمات یکپارچه",
+                    "url": "https://web.kateb.ir/user/register"
+                },
+                {
+                    "title": "سامانه خودنویس",
+                    "url": "https://khodnevis.mrud.ir/"
+                },
+                {
+                    "title": "سامانه ثبت الکترونیکی پذیرش درخواست صدور سند مالکیت",
+                    "url": "https://sabtemelk.ssaa.ir/"
+                },
+                {
+                    "title": "صفحه اصلی | سامانه جامع طرح های حمایتی مسکن",
+                    "url": "https://saman.mrud.ir/"
+                },
+                {
+                    "title": "املاک واسکان",
+                    "url": "https://amlak.mrud.ir/"
+                },
+                {
+                    "title": "بنیاد مسکن درخواست",
+                    "url": "https://svs.bonyadmaskan.ir/"
+                },
+                {
+                    "title": "سامانه پنجره واحد زمین",
+                    "url": "https://zamin.gov.ir/"
+                },
+                {
+                    "title": "استعلام کد رهگیر املاک",
+                    "url": "https://www.iranamlaak.ir/forms/contracts/filtercontractsbycontractside.aspx"
+                },
+                {
+                    "title": "ثبت من",
+                    "url": "https://my.ssaa.ir/portal"
+                },
+                {
+                    "title": "درگاه خدمات یکپارچه",
+                    "url": "https://web.kateb.ir/use/login"
+                }
+            ]
+        },
+        {
+            "name": "پرکاربرد",
+            "websites": [
                 {
                     "title": "شرکت ملی پست | درگاه خدمات الکترونیک GNAF",
                     "url": "https://gnaf.post.ir/portal"
@@ -6000,167 +5791,6 @@
             ]
         },
         {
-            "name": "بورس",
-            "websites": [
-                {
-                    "title": "باهم | فارابی‌زون",
-                    "url": "https://my.irfarabi.com/customer-club/?list=cash&search="
-                },
-                {
-                    "title": "درگاه یکپارچه ذینفعان بازار سرمایه",
-                    "url": "https://ddn.csdiran.ir/auth/login"
-                },
-                {
-                    "title": "احراز هویت الکترونیک سجام",
-                    "url": "https://sapp.isignal.ir/#/signup/step1"
-                }
-            ]
-        },
-        {
-            "name": "وام ازدواج و فرزند",
-            "websites": [
-                {
-                    "title": "سامانه تسهیلات قرض الحسنه ازدواج و فرزند",
-                    "url": "https://ve.cbi.ir/"
-                },
-                {
-                    "title": "معاونت امور زنان | صفحه اصلی",
-                    "url": "https://women.iripo.ir/"
-                },
-                {
-                    "title": "سامانه ثبت نام تسهیلات دهه60",
-                    "url": "https://women.gov.ir/vamd60"
-                },
-                {
-                    "title": "هدیه ازدواج دوقلو ها",
-                    "url": "https://www.leader.ir/fa/letter"
-                },
-                {
-                    "title": "شميم رحمت",
-                    "url": "https://tarherahmat.ir/FollowUpRequest.asp"
-                },
-                {
-                    "title": "New Tab",
-                    "url": "http://gas.tceo.ir/"
-                }
-            ]
-        },
-        {
-            "name": "دیلیت اکانت",
-            "websites": [
-                {
-                    "title": "ورود به اکانت",
-                    "url": "https://www.instagram.com/"
-                },
-                {
-                    "title": "دیلیت اکانت",
-                    "url": "https://www.instagram.com/accounts/login/?next=/accounts/remove/request/permanent/"
-                },
-                {
-                    "title": "هلپ سنتر دیلیت اکانت",
-                    "url": "https://help.instagram.com/139886812848894"
-                }
-            ]
-        },
-        {
-            "name": "املاک و مستغلات و کد پستی",
-            "websites": [
-                {
-                    "title": "تاییدیه کد پستی",
-                    "url": "https://gnaf2.post.ir/certification#5/31.77/54.82"
-                },
-                {
-                    "title": "درگاه خدمات یکپارچه",
-                    "url": "https://web.kateb.ir/user/register"
-                },
-                {
-                    "title": "سامانه خودنویس",
-                    "url": "https://khodnevis.mrud.ir/"
-                },
-                {
-                    "title": "سامانه ثبت الکترونیکی پذیرش درخواست صدور سند مالکیت",
-                    "url": "https://sabtemelk.ssaa.ir/"
-                },
-                {
-                    "title": "صفحه اصلی | سامانه جامع طرح های حمایتی مسکن",
-                    "url": "https://saman.mrud.ir/"
-                },
-                {
-                    "title": "املاک واسکان",
-                    "url": "https://amlak.mrud.ir/"
-                },
-                {
-                    "title": "بنیاد مسکن درخواست",
-                    "url": "https://svs.bonyadmaskan.ir/"
-                },
-                {
-                    "title": "سامانه پنجره واحد زمین",
-                    "url": "https://zamin.gov.ir/"
-                },
-                {
-                    "title": "استعلام کد رهگیر املاک",
-                    "url": "https://www.iranamlaak.ir/forms/contracts/filtercontractsbycontractside.aspx"
-                },
-                {
-                    "title": "ثبت من",
-                    "url": "https://my.ssaa.ir/portal"
-                },
-                {
-                    "title": "درگاه خدمات یکپارچه",
-                    "url": "https://web.kateb.ir/use/login"
-                }
-            ]
-        },
-        {
-            "name": "شرکت مخابراتی ها",
-            "websites": [
-                {
-                    "title": "دریافت آنلاین تنظیمات اینترنت همراه – ایرانسل",
-                    "url": "https://irancell.ir/p/1712/%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D9%87%D9%85%D8%B1%D8%A7%D9%87"
-                },
-                {
-                    "title": "ایرانسل من نسخه وب",
-                    "url": "https://my.irancell.ir/"
-                },
-                {
-                    "title": "پرداخت سیم کارت ایرانسل",
-                    "url": "https://shop.irancell.ir/bill_payment/fa/"
-                },
-                {
-                    "title": "رایتل - خدمات خرید و پرداخت مستقیم",
-                    "url": "https://www.rightel.ir/direct-payment-services"
-                },
-                {
-                    "title": "خرید شارژ عمده ارزان ایرانسل همراه رايتل خط به خط",
-                    "url": "https://ir93.com/"
-                },
-                {
-                    "title": "شرکت مخابرات ایران",
-                    "url": "https://tci-old.tci.ir/header/creditCard"
-                },
-                {
-                    "title": "شارژ تلفن همگانی",
-                    "url": "https://tci.ir/header/creditCard"
-                },
-                {
-                    "title": "تماس با ما – ایرانسل – اولین و بزرگترین اپراتور دیجیتال ایران و عرضه‌کننده اینترنت پرسرعت همراه 3G، 4G،5G و اینترنت ثابت TD-LTE",
-                    "url": "https://irancell.ir/p/1590/%D8%AA%D9%85%D8%A7%D8%B3_%D8%A8%D8%A7_%D9%85%D8%A7"
-                },
-                {
-                    "title": "صورت حساب رایتل",
-                    "url": "https://billing.rightel.ir/PayBills/CalculatePayBill/CalculatePayBill?_ga=2.230248092.1687241510.1684599104-2041479112.1684599104&_gl=1*ymowvl*_ga*MjA0MTQ3OTExMi4xNjg0NTk5MTA0*_ga_9JR7CP11T3*MTY4NDU5OTEwNC4xLjEuMTY4NDU5OTExNC41MC4wLjA."
-                },
-                {
-                    "title": "پنل فروشگاهی eways - شارژ،شارژ مستقیم،قبض،سیمکارت،مودم،بلیط",
-                    "url": "https://panel.eways.co/user/login/"
-                },
-                {
-                    "title": "رایتل - نمایش صورت حساب سیم کارت دایمی مشترک",
-                    "url": "https://billing.rightel.ir/PayBills/CalculatePayBill/CalculatePayBill?_gl=1*6wdwm6*_ga*Njc3OTIyMDM5LjE2NjM0NzU1Njc.*_ga_9JR7CP11T3*MTY2NDcyNDU2OS4yLjAuMTY2NDcyNDU2OS42MC4wLjA.&_ga=2.135142449.1010338852.1664724572-677922039.1663475567"
-                }
-            ]
-        },
-        {
             "name": "فیش حقوقی",
             "websites": [
                 {
@@ -6303,7 +5933,7 @@
                     "url": "https://sadadpsp.ir/Tollpayment/"
                 },
                 {
-                    "title": "ورود به سیستم",
+                    "title": "ثبت نام عتبات/حج",
                     "url": "https://atabatorg.haj.ir/login.aspx"
                 },
                 {
@@ -6321,216 +5951,6 @@
                 {
                     "title": "سازمان حج و زیارت > خانه",
                     "url": "https://www.haj.ir/"
-                }
-            ]
-        },
-        {
-            "name": "سایت",
-            "websites": [
-                {
-                    "title": "ناحیه کاربری - آبنوس انفورماتیک | ارائه دهنده خدمات حرفه‌ای میزبانی وب ، سرور مجازی ، سرور اختصاصی ، ثبت دامنه ، گواهینامه امنیتی",
-                    "url": "https://abnoos.com/clientarea.php"
-                },
-                {
-                    "title": "Home - Google Drive",
-                    "url": "https://drive.google.com/drive/u/1/home"
-                },
-                {
-                    "title": "پیشخوان ‹ کافی نت کلیک (یوسفی) — وردپرس",
-                    "url": "https://clickcoffeenet.ir/wp-admin/index.php"
-                },
-                {
-                    "title": "کافی نت کلیک (یوسفی)",
-                    "url": "https://clickcoffeenet.ir/"
-                },
-                {
-                    "title": "ایرنیک (IRNIC) – ایرنیک",
-                    "url": "https://www.nic.ir/"
-                },
-                {
-                    "title": "ورود ‹ کافی نت کلیک (یوسفی) — وردپرس",
-                    "url": "https://clickcoffeenet.ir/clickbackend/"
-                },
-                {
-                    "title": "negahpayamak.com/MyLogin.aspx?ReturnUrl=%2f",
-                    "url": "http://negahpayamak.com/MyLogin.aspx?ReturnUrl=%2f"
-                },
-                {
-                    "title": "پرداخت | مستر خطیب",
-                    "url": "https://mrkhatib.com/checkout/order-received/13230/?key=wc_order_lN7rYpSDOHwk5&utm_nooverride=1&wc_status=success"
-                },
-                {
-                    "title": "Login",
-                    "url": "https://portal.kosarrb.com/Authorize"
-                },
-                {
-                    "title": "راه اندازی، کانفیگ و پیکربندی اولیه سرور hp 📌(آموزش تصویری)",
-                    "url": "https://falnic.com/blog/initialize-of-server.html"
-                },
-                {
-                    "title": "ورود به حالت safe mode در ویندوز 11 - safe mode چیست؟ - فروشگاه اینترنتی سازگار",
-                    "url": "https://shop.sazgar.com/%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D8%AD%D8%A7%D9%84%D8%AA-safe-mode-%D8%AF%D8%B1-%D9%88%DB%8C%D9%86%D8%AF%D9%88%D8%B2-11-safe-mode-%DA%86%DB%8C%D8%B3%D8%AA%D8%9F/"
-                },
-                {
-                    "title": "دستورات کاربردی سوئیچ سیسکو به همراه توضیحات برای هر کامند، - شبکه گستران فرابورس",
-                    "url": "https://www.cisco-shabake.com/cisco-switch-practical-commands/"
-                },
-                {
-                    "title": "ناسا | لنس | شرکت‌ها",
-                    "url": "https://firms.modaps.eosdis.nasa.gov/map/#d:2025-10-31;l:fires_all,countries,earth;@51.611,35.589,11.301z"
-                },
-                {
-                    "title": "DoH Proxy - DNS over HTTPS (Enhanced Anti-Censorship)",
-                    "url": "https://raspy-dew-a01d.khadamat-ghaem021.workers.dev/"
-                },
-                {
-                    "title": "IranRouter - MikroTik RouterOS, CHR & Patch Downloads Mirror",
-                    "url": "https://iranrouter.org/"
-                },
-                {
-                    "title": "Explore Docker's Container Image Repository | Docker Hub",
-                    "url": "https://hub.docker.com/search?q=v2ray"
-                },
-                {
-                    "title": "وب سایت",
-                    "url": "https://cms.hamoonpay.com/user-register"
-                },
-                {
-                    "title": "ZeroTier – Network Member Devices",
-                    "url": "https://central.zerotier.com/network/8d1c312afad237e8"
-                },
-                {
-                    "title": "کدها و خطاهای فتوکپی ریکو آفیشیو 2045",
-                    "url": "https://copyir.com/%DA%A9%D8%AF%D9%87%D8%A7-%D9%88-%D8%AE%D8%B7%D8%A7%D9%87%D8%A7%DB%8C-%D9%81%D8%AA%D9%88%DA%A9%D9%BE%DB%8C-%D8%B1%DB%8C%DA%A9%D9%88-%D8%A2%D9%81%DB%8C%D8%B4%DB%8C%D9%88-2045"
-                },
-                {
-                    "title": "Saman Loan",
-                    "url": "https://samanloan.sb24.ir/login"
-                },
-                {
-                    "title": "دارندگان دستگاه کارتخوان | بانک سامان",
-                    "url": "https://www.sb24.ir/sme/loans/special-plans/pos-loan"
-                },
-                {
-                    "title": "کارتخوان - دستگاه کارتخوان - دستگاه پوز | بانک سامان",
-                    "url": "https://www.sb24.ir/e-services/tools/pos"
-                },
-                {
-                    "title": "سِپ‌من - درخواست کارتخوان",
-                    "url": "https://my.sep.ir/Pos/PosRequest?AspxAutoDetectCookieSupport=1"
-                },
-                {
-                    "title": "Nova — Auto Install",
-                    "url": "https://novaproxy.online/install"
-                },
-                {
-                    "title": "Nova Proxy, Control Panel",
-                    "url": "https://nova-falcon-core-cad5.khadamat-ghaem021.workers.dev/admin"
-                },
-                {
-                    "title": "ورود | کمالی حسابداری",
-                    "url": "https://secure-signup-pal.lovable.app/login"
-                },
-                {
-                    "title": "نرم افزار حضور غیاب فینتو | داشبورد",
-                    "url": "https://attendance.finto.ir/"
-                },
-                {
-                    "title": "توزیع کنندگان عمده | ایرانسل؛ نبض زندگی دیجیتال",
-                    "url": "https://irancell.ir/p/1596/%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%B9%D9%85%D8%AF%D9%87"
-                },
-                {
-                    "title": "Nova Proxy, Control Panel",
-                    "url": "https://nova-luna-vault-9ea1.khadamat-ghaem021.workers.dev/admin"
-                },
-                {
-                    "title": "فریمور بدون نام بدون نام شاسی (برد اصلی): ZH-824-2AHD-V2A",
-                    "url": "https://remont-aud.net/dump/gps_navigatory_videoregistratory/prochee/no_name_no_name_shassi_main_board_zh_824_2ahd_v2a/296-1-0-155586"
-                },
-                {
-                    "title": "سامانه مدیریت گواهی کسر از حقوق پرسنل شاغل",
-                    "url": "https://medusp.ir/Login.aspx"
-                },
-                {
-                    "title": "Nova Proxy, Control Panel",
-                    "url": "https://nova-orbit-spark-6015.nova-25a449.workers.dev/69526b6241ef"
-                },
-                {
-                    "title": "سامانه 2020 - درگاه ملی کارشناسی",
-                    "url": "https://2020kanoon.ir/"
-                },
-                {
-                    "title": "ZeroTier – Network Settings",
-                    "url": "https://central.zerotier.com/network/8d1c312afad237e8/settings#detail"
-                },
-                {
-                    "title": "App passwords",
-                    "url": "https://myaccount.google.com/apppasswords?pli=1&rapt=AEjHL4OXTR7K0KVt2tDgnNsO6HU6mgH3laeHxz49fHwhNctYhsGlcQDK17wYcsImRy0nuOgqRCLXDEuuQVhf8aF6DYiCEAHlJJsZRDQ-0QiyNHjWZjYoeFg"
-                },
-                {
-                    "title": "آموزش نصب V2Ray روی روتر گوگل (OpenWrt) | اینترنت بدون فیلتر + Balancing + جداسازی سایت‌های ایرانی",
-                    "url": "https://www.aparat.com/v/ies575g"
-                },
-                {
-                    "title": "شبکه موقعیت یابی یکپارچه مالکیت ها",
-                    "url": "https://shamim.ssaa.ir/"
-                },
-                {
-                    "title": "GSM GPT | انتخاب برند",
-                    "url": "https://panel.gsmgpt.com/select-brand.php?t=1791707219386"
-                },
-                {
-                    "title": "راهنمای اتصال نرم افزار به دستگاه های کارت خوان پوز بانکی",
-                    "url": "https://easysofts.ir/PosHelp"
-                },
-                {
-                    "title": "نرم‌افزارهای گارانتی متین - داده پرداز رایانه متین",
-                    "url": "https://www.matin.co/matin-guaranty-softwares/"
-                },
-                {
-                    "title": "Python Releases for Windows | Python.org",
-                    "url": "https://www.python.org/downloads/windows/"
-                }
-            ]
-        },
-        {
-            "name": "Imported",
-            "websites": [
-                {
-                    "title": "بهترین DNS های پر سرعت و رایگان 2023",
-                    "url": "https://kaliboys.com/best-dns-server/"
-                },
-                {
-                    "title": "ریست پسورد و بازیابی رمز DVR و NVR بدون نیاز به ارسال دستگاه - آراز کیت",
-                    "url": "https://arazkit.ir/reset-passwords/"
-                },
-                {
-                    "title": "مستقیم کردن ترافیک وبسایت های داخلی در V2ray - YouTube",
-                    "url": "https://www.youtube.com/watch?v=PIaUHsnzR-g"
-                },
-                {
-                    "title": "اعطای نمایندگی فروش رایتل – پردیس تجارت الکترونیک",
-                    "url": "http://ptesim.ir/%D8%A7%D8%B9%D8%B7%D8%A7%DB%8C-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%DA%AF%DB%8C-%D8%B1%D8%A7%DB%8C%D8%AA%D9%84/"
-                },
-                {
-                    "title": "سازمان تامین اجتماعی - مفاصاحساب ماده 38",
-                    "url": "https://eservices.tamin.ir/view/#/optional-insurance/freelance-detail-pay-premiume"
-                },
-                {
-                    "title": "F1 Start Timer",
-                    "url": "https://f1-start.glitch.me/"
-                },
-                {
-                    "title": "سامانه مدیریت یادگیری جمعیت هلال احمر ایران",
-                    "url": "https://lms.rcs.ir/"
-                },
-                {
-                    "title": "سامانه مهارت آموزی و اشتغال سربازان وظیفه",
-                    "url": "https://samasoo.ir/"
-                },
-                {
-                    "title": "اينترنت بانک سپهر",
-                    "url": "https://bib.bsi.ir/public-page.ib"
                 }
             ]
         }
